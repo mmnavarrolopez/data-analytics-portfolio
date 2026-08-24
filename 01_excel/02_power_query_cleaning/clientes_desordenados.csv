@@ -1,0 +1,6 @@
+ID_Cliente;Nombre_Cliente;Fecha_Registro;Monto_Gasto;Estado
+C-01;  juan perez ;2024-01-15;1500,50;ACTIVO
+C-02;MARIA GOMEZ;15/02/2024;2300,00;activo
+C-03;carlos ruiz ;2024-03-01;  ;INACTIVO
+C-04; ANA LOPEZ ;01-04-2024;4500,75;Activo
+C-05;pedro rocha;2024/05/10;1200;PENDIENTE
